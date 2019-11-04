@@ -1,0 +1,16 @@
+{
+  "name": "vanilla-js-pragma",
+  "version": "1.0.2",
+  "description": "A simple pragma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pragma",
+    "vanillajs"
+  ],
+  "author": "Diego Araujo",
+  "license": "ISC",
+  "private": false
+}
